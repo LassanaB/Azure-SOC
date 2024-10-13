@@ -51,7 +51,9 @@ For the "AFTER" metrics, the environment was secured by hardening the NSGs, bloc
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
+
 Start Time 2024-09-23 14:41:24
+
 Stop Time 2024-09- 24 14:41:24
 
 | Metric                             | Count
@@ -69,7 +71,9 @@ Stop Time 2024-09- 24 14:41:24
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
+
 Start Time 2024-09-25 15:37: 40
+
 Stop Time	2024-09- 26 15:37: 40
 
 | Metric                   | Count
